@@ -8,5 +8,5 @@ int main()
     fact=fact*i;
   }
   printf("%d\n",fact);
-  return 0;
+  return 0;//
 }
