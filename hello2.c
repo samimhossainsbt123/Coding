@@ -1,12 +1,14 @@
-// Multiplication Table
-#include<stdio.h>
+// Factorial with loop
+include<stdio.h>
 int main()
 {
- int i,num;
- scanf("%d",&num);
-  for(i=1;i<=10;i++)
-  {
-    printf("%d * %d = %d\n",num,i,num*i);
-  }
- return 0;
+    int num,i,fact=1;
+    scanf("%d",&num);
+    for(i=1;i<=num;i++)
+    {
+        fact=fact*i;
+      
+    }
+    printf("%d",fact);
+    return 0;
 }
