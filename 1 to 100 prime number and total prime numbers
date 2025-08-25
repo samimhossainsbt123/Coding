@@ -1,5 +1,5 @@
 
-//Prime number With loop
+//1 to 100 prime number and total prime numbers
 #include<stdio.h>
 int main()
 {
