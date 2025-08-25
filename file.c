@@ -1,12 +1,12 @@
-// Multiplication Table
 #include<stdio.h>
 int main()
 {
- int i,num;
- scanf("%d",&num);
-  for(i=1;i<=10;i++)
+  int fact=1,i,num;
+  scanf("%d",&num);
+  for(i=1;i<=num;i++)
   {
-    printf("%d * %d = %d\n",num,i,num*i);
+    fact=fact*i;
   }
- return 0;
+  printf("%d\n",fact);
+  return 0;
 }
