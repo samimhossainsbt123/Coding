@@ -9,6 +9,6 @@ int main()
         fact=fact*i;
       
     }
-    printf("%d",fact);
+    printf("%d",fact); // printf bhahire dite hobe obossoi
     return 0;
 }
