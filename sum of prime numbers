@@ -1,9 +1,9 @@
 
-//Prime number With loop
+//sum of prime numbers
 #include<stdio.h>
 int main()
 {
-    int i,num,count=0,totalprimenumbers=0;
+    int i,num,count=0,totalprimenumbers=0,sumofprimenumbers=0;
 
 
     for(num=2;num<=100;num++)
@@ -22,9 +22,11 @@ int main()
         {
            printf(" %d ",num);
           totalprimenumbers++;
+          sumofprimenumbers=sumofprimenumbers+num;
           
         }
     }
-    printf("\n %d",totalprimenumbers);
+    printf("\n %d\n",totalprimenumbers);
+    printf("%d\n",sumofprimenumbers);
     return 0;
 }
