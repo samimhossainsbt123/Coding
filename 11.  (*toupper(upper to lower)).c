@@ -6,7 +6,7 @@ int main()
   scanf("%c",&lower);
   upper=toupper(lower);
   printf("upper=%c\n", upper);
-                                 
+                                 //
   return 0;
 }
 
