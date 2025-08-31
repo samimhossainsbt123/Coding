@@ -5,7 +5,7 @@ int main()
   char lower,upper;
   scanf("%c",&upper);
   lower=tolower(upper);
-  printf("lower=%c\n",  lower);
+  printf("Lower=%c\n",lower);
                                  
   return 0;
 }
