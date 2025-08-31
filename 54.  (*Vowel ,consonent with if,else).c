@@ -1,4 +1,4 @@
-//Positive ,Negative,Zero
+//Vowel ,consonent with if,else
 #include<stdio.h>
 int main()
 {
