@@ -6,6 +6,6 @@ int main()
   scanf("%d",&num);
   printf("octal=%o\n",num);
                                  
-  return 0;
+  return 0;//
 }
 
