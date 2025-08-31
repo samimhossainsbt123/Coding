@@ -5,5 +5,5 @@ int main()
   char ch;
   scanf("%c",&ch);
   printf("ASCII Number = %d\n",ch);
-  return 0;
+  return 0;//
 }
