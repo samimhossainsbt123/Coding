@@ -3,6 +3,6 @@
 int main()
 { 
    int number1=30,number2=90;
-    printf("Numbers are=%d   %d\n",number1,number2);
+    printf("Numbers are=%d   %d\n",number1,number2);//
      return 0;
 }
