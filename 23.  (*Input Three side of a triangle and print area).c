@@ -2,14 +2,12 @@
 #include<stdio.h>
 int main()
 {
-  float num1,num2,num3,sum,avg;
+ float a,b,c,s,area;
 
-
-  scanf("%f%f%f",&num1,&num2,&num3);
-  sum=num1+num2+num3;
-  avg=(float)sum/3;
-
-  printf("Average=%f\n",avg);
+  scanf("%f%f%f",&a,&b,&c);
+  s=(a+b+c)/2;
+  area=sqrt(s*(s-a)*(s-b)*(s-c));
+  printf("Area=%f\n",area);
    
                                  
   return 0;
