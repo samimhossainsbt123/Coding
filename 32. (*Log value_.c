@@ -1,4 +1,4 @@
-//log er value(calculetor er ln er man er soman)
+//log  value(calculetor er ln er man er soman)
 #include<stdio.h>
 int main()
 {
