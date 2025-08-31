@@ -1,4 +1,4 @@
-//All keyword  print
+//All  tupe  keyword  value input and print 
 #include<stdio.h>
 int main()
 { 
