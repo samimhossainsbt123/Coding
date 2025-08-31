@@ -1,4 +1,4 @@
-// Swap number
+// Swap number with temp
 #include<stdio.h>
 int main()
 {
