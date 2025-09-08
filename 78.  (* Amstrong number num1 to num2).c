@@ -18,7 +18,7 @@ int main()
    {
      printf("Amstrong numbers=%d\n",i);
    }
-      sum=0;
+      sum=0;// eta bhule jay  problem eta eta na dile uttor shudu 1 asbe
    }
 
     return 0;
