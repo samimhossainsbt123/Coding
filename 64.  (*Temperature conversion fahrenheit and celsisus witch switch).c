@@ -1,4 +1,4 @@
-// Temperature conversion fahrenheit and clsisus
+// Temperature conversion fahrenheit and celsisus with switch
 #include<stdio.h>
 int main()
 {    int  choice;
