@@ -1,4 +1,4 @@
-// Prime number any
+// Prime number
 #include<stdio.h>
 int main()
 {
@@ -9,11 +9,13 @@ int main()
      printf("Not a prime number\n");
      return 0;   //eta obossoi dibo eta na dile 2 ta print hobe tai eta obossoi dibo
     }
-    for(i=2;i<=num;i++)
+    for(i=2;i<num;i++)
     {
      if(num%i==0)
-     count++;// prime manei count dibo
-     break;
+     {
+      count++;// prime manei count dibo
+      break;
+     }
     }  
     if(count==0)
     {
@@ -23,4 +25,3 @@ int main()
     printf("Not a prime number\n");
     return 0;
 }
-
