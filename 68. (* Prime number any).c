@@ -7,12 +7,12 @@ int main()
     if(num<=1)
     {
      printf("Not a prime number\n");
-     return 0;
+     return 0;   //eta obossoi dibo eta na dile 2 ta print hobe tai eta obossoi dibo
     }
-    for(i=1;i<=num;i++)
+    for(i=2;i<=num;i++)
     {
-     if(i%2==0)
-     count++;
+     if(num%i==0)
+     count++;// prime manei count dibo
      break;
     }  
     if(count==0)
