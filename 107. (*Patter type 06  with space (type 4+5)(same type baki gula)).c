@@ -13,7 +13,7 @@ int main()
        {
          for(col=1;col<=row;col++)
         {
-            printf("%d",col);
+            printf("%d ",col);
         }
        }
         printf("\n");//for row er je braccet asse tar modde rakbo
@@ -27,7 +27,7 @@ int main()
        {
          for(col=1;col<=row;col++)
         {
-            printf("%d",col);
+            printf("%d ",col);
         }
        }
         printf("\n");//for row er je braccet asse tar modde rakbo
