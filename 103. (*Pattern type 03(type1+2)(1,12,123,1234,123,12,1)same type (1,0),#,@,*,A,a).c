@@ -12,9 +12,9 @@ int main()
         }
         printf("\n");//for row er je braccet asse tar modde rakbo
     }
-     for(row=num-1;row>=1;row--)
+     for(row=num-1;row>=1;row--)// ulta hole eta hobei fixed
     {
-        for(col=1;col<=row;col++)
+        for(col=1;col<=row;col++)// eta kokhonoi poriborton hobena
         {
             printf("%d ",col);
         }
