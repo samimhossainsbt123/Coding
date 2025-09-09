@@ -1,4 +1,4 @@
-// Pattern type 05 opption side  er ulta(   1, 12,123...) same type row ,A,a,*,#,@,col%2,row %2 ekoi
+// Pattern type 05 opposide side  er ulta(   1, 12,123...) same type row ,A,a,*,#,@,col%2,row %2 ekoi
 
 #include<stdio.h>
 int main()
