@@ -1,4 +1,4 @@
-// Pattern type 04 opption side(   1, 12,123...) same type row ,A,a,*,#,@,col%2,row %2 ekoi
+// Pattern type 04 opposide side(   1, 12,123...) same type row ,A,a,*,#,@,col%2,row %2 ekoi
 #include<stdio.h>
 int main()
 {
