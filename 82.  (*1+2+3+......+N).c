@@ -1,0 +1,16 @@
+// 1+2+3+......+N
+#include<stdio.h>
+int main()
+{
+   int i,num,sum=0;
+   scanf("%d",&num);
+   for(i=1;i<=num;i++)
+
+   {
+    sum=sum+i;
+   }
+   printf("Sum=%d\n",sum);
+    return 0;
+   
+}
+
