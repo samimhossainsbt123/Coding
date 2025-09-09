@@ -4,7 +4,7 @@ int main()
 {
     int row,col,num;
     scanf("%d",&num);
-    for(row=num-1;row>=1;row--)
+    for(row=num-1;row>=1;row--) // ulta hole eta fixed hoy
     {
         for(col=1;col<=row;col++)
         {
