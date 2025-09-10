@@ -15,7 +15,7 @@ int main()
         {
             printf("%d ",col);
         }
-      for(col=row-1;col>=1;col--)
+      for(col=row-1;col>=1;col--) // ei laine ta col <=row-1 eta bhinno mone rakbo
       {
            printf("%d ",col);
       }
