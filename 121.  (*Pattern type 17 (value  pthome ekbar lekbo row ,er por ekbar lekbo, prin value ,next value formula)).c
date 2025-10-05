@@ -4,7 +4,7 @@ int main()
 {
     int row,col,num,value=1;
     scanf("%d",&num);
-    for(row=0;row<num;row++)
+    for(row=0;row<=num;row++)
     {    
         value=1;   // mone rakbo row er pore 
         for(col=1;col<=num-row;col++)
