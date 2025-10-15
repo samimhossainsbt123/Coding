@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-  int matrix[10][10],row,col,i,j,sum=0;
+  int matrix[10][10],row,col,i,j,sum=0; 
   scanf("%d%d",&row,&col);
   while(row!=col)
   {
