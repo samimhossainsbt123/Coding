@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-   int matrix[10][10],transpose[10][10],row,col,i,j;
+   int matrix[10][10],transpose[10][10],row,col,i,j;  //
    scanf("%d%d",&row,&col);
    for(i=0;i<row;i++)
    {
