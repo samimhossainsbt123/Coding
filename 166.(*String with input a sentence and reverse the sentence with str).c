@@ -1,4 +1,4 @@
-// String with input a sentence and reverse the sentence with str
+// String with input a sentence and reverse the sentence with str.
 #include<stdio.h>
 int main()
 {
