@@ -1,4 +1,4 @@
-// String with input and sentence find lenght(means koto gula word + koto gula space asse)
+// String with input and sentence find lenght with str (means koto gula word + koto gula space asse)
 #include<stdio.h>
 int main()
 {
