@@ -1,4 +1,4 @@
-// String with input 2 source concatenation mane ektar satte arekter jog hoy then print hobe
+// String with input 2 source concatenation  with str mane ektar satte arekter jog hoy then print hobe
 #include<stdio.h>
 int main()
 {
