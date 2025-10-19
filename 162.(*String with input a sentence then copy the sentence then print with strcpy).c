@@ -1,4 +1,4 @@
-// String with input a sentence then copy the sentence then print with str
+// String with input a sentence then copy the sentence then print with strcpy
 #include<stdio.h>
 int main()
 {
