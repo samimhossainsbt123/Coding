@@ -23,11 +23,11 @@ int main()
     int d=strcmp(str1,str2);
     if(d==0)
     {
-      printf("Strings are equal");
+      printf("Strings are palindrome");
     }
     else
     {
-      printf("Strings are not equal");
+      printf("Strings are not palindrome");
     }
      
  
