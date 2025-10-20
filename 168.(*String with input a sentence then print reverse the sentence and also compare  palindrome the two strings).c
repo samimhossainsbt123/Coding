@@ -1,4 +1,4 @@
-// String with input a sentence then print reverse the sentence and also compare the two strings
+// String with input a sentence then print reverse the sentence and also compare  palindrome the two strings
 
 #include<stdio.h>
 int main()
