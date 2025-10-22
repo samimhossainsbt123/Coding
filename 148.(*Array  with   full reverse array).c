@@ -4,14 +4,16 @@
 
 int main() {
      
-    int A[3],i;
-    for(i=0;i<3;i++)
+    int N,i;
+    scanf("%d",&N);
+    int A[N];
+    for(i=0;i<N;i++)
     {   
             printf("A[%d]= ",i);
             scanf("%d",&A[i]);  
     }
     printf("\n A=  ");
-    for(i=2;i>=0;i--)
+    for(i=N-1;i>=0;i--)
      
     {     
 
