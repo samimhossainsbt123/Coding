@@ -1,4 +1,4 @@
-// Array a[i] print the reverse array
+// Array  with   full reverse array
 
 #include <stdio.h>
 
