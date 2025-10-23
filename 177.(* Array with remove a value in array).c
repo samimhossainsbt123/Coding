@@ -7,7 +7,7 @@ int main()
     int A[N-1];   // jehuto scanf N er age porjonto nitassi are remove korle 1 ghor emnitei kome tai N-1 niya raklam tobe etao kintu uttor theke ek bessi
     for(i=0;i<N;i++)
     {
-        scanf("%d",&A[i]);   // sadaron niome ager moto
+        scanf("%d",&A[i]);   // sadaron niome ager moto.
     }
     int idx;
     scanf("%d",&idx);
