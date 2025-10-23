@@ -1,4 +1,4 @@
-// Array with reverse find palindrome ,,print YES OR no
+// Array with reverse find palindrome ,,print only YES OR no
 #include<stdio.h>
 int main()
 {
