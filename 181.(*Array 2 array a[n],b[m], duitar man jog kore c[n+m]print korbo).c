@@ -25,7 +25,7 @@ int main()
      }
       for(i=0;i<n;i++)
      {
-       printf("%d ",c[i]);
+       printf("%d ",c[i]);// prothom a print korbo
      }
       for(j=0;j<m;j++)
      {
@@ -33,7 +33,7 @@ int main()
      }
       for(j=0;j<m;j++)
      {
-         printf("%d ",c[j+n]);
+         printf("%d ",c[j+n]); // pore b print korbo after prin a
      }
     return 0;
       
