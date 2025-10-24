@@ -1,4 +1,4 @@
-// Array with copy type 3 a[],b[],2 ta word input niye jekono ekta 2 bar print korbo
+// String with copy type 3 a[],b[],2 ta word input niye jekono ekta 2 bar print korbo
 #include<stdio.h>
 #include <string.h>
 
