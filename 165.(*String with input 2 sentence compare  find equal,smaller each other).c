@@ -12,10 +12,16 @@ int main()
     {
       printf("Strings are  equal");
     }
-    else
+    else if(d>0)
     {
-      printf("Strings are  not equal");
+      printf("Str1 is smaller");
     }
+     else if(d<0)
+    {
+      printf("Str2 is smaller");
+    }
+    return 0;
+}
 
      
  
