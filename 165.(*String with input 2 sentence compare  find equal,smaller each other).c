@@ -1,6 +1,7 @@
 
 // String with input 2 sentence compare each other
 #include<stdio.h>
+#include<string.h>  // str nile string.h obossoi nite hobe
 int main()
 {
     char str1[1000];
